@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=mitanshu2011&theme=1)
 
-Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/mitanshu2011/github-readme-codeforces-stats)
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
