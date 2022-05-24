@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ## My Codeforces Stats
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=mitanshu2011&theme=0)
+<!-- ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=mitanshu2011&theme=0) -->
 
 <!-- Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats) -->
